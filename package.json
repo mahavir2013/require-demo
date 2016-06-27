@@ -1,0 +1,25 @@
+{
+  "name": "require-demo",
+  "version": "1.0.0",
+  "description": "ReqireJS Sample Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahavir2013/require-demo.git"
+  },
+  "keywords": [
+    "requirejs"
+  ],
+  "author": "Mahavir <mahavir4dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahavir2013/require-demo/issues"
+  },
+  "homepage": "https://github.com/mahavir2013/require-demo#readme",
+  "dependencies": {
+    "requirejs": "^2.2.0"
+  }
+}
